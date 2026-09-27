@@ -4,6 +4,9 @@ A 24/7 AI customer service agent built with Hermes and Python — with custom bu
 
 This repository contains the files used in my **Python Simplified Hermes Agent tutorial**, along with reusable templates that you can adapt to your own business.
 
+## Video Tutorial 🎥
+<a href="" target="_blank"><img width="600" alt="Hermes Agent 24/7 AI Customer Support Tutorial thumbnail" src="https://github.com/user-attachments/assets/0e00234f-f8fa-43e2-8645-aae7a479ef88" /></a>
+
 ## What We're Building
 
 The goal is to turn Hermes into a real AI worker that can:
@@ -17,8 +20,6 @@ The goal is to turn Hermes into a real AI worker that can:
 - Flag situations that may need human attention
 
 The example used in the video is **DragonDash Delivery**, a fictional delivery company, but the same setup can be adapted to practically any business.
-
----
 
 ## Repository Structure
 
@@ -39,8 +40,6 @@ hermes_business_agent/
 The files in the repository are the **original files used in the video**.
 
 If you want to create your own version instead, use the templates below.
-
----
 
 # 🧠 Business Knowledge
 
@@ -133,8 +132,6 @@ For example, your optional business context could explain unusual terminology, p
 
 The more specific your business knowledge is, the less your agent has to guess.
 
----
-
 # 🐍 Python Daily Report Script
 
 The Python script used in the video is located inside:
@@ -157,7 +154,7 @@ In Hermes, the script is stored at:
 /opt/data/scripts/daily_report.py
 ```
 
-It can be tested manually with:
+It can be tested manually on your server's terminal with:
 
 ```bash
 python /opt/data/scripts/daily_report.py
@@ -292,8 +289,6 @@ The goal is not to copy DragonDash.
 
 The goal is to use the same structure to create an AI worker that understands **your business, your customers, and your rules**.
 
----
-
 # 🎥 Full Tutorial
 
 Watch the full Python Simplified tutorial for the complete setup, including:
@@ -311,8 +306,6 @@ Watch the full Python Simplified tutorial for the complete setup, including:
 
 **YouTube tutorial:**  
 [ADD VIDEO LINK]
-
----
 
 ## ⭐ Hostinger VPS
 
