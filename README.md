@@ -305,7 +305,7 @@ Watch the full Python Simplified tutorial for the complete setup, including:
 - Generating automated daily business reports
 
 **YouTube tutorial:**  
-[[VIDEO LINK](https://youtu.be/iDxBhPWF2RY)]
+https://youtu.be/iDxBhPWF2RY
 
 ## ⭐ Hostinger VPS
 
