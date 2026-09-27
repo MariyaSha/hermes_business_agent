@@ -5,7 +5,7 @@ A 24/7 AI customer service agent built with Hermes and Python — with custom bu
 This repository contains the files used in my **Python Simplified Hermes Agent tutorial**, along with reusable templates that you can adapt to your own business.
 
 ## Video Tutorial 🎥
-<a href="" target="_blank"><img width="600" alt="Hermes Agent 24/7 AI Customer Support Tutorial thumbnail" src="https://github.com/user-attachments/assets/0e00234f-f8fa-43e2-8645-aae7a479ef88" /></a>
+<a href="https://youtu.be/iDxBhPWF2RY" target="_blank"><img width="600" alt="Hermes Agent 24/7 AI Customer Support Tutorial thumbnail" src="https://github.com/user-attachments/assets/0e00234f-f8fa-43e2-8645-aae7a479ef88" /></a>
 
 ## What We're Building
 
@@ -305,7 +305,7 @@ Watch the full Python Simplified tutorial for the complete setup, including:
 - Generating automated daily business reports
 
 **YouTube tutorial:**  
-[ADD VIDEO LINK]
+[[VIDEO LINK](https://youtu.be/iDxBhPWF2RY)]
 
 ## ⭐ Hostinger VPS
 
